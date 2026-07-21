@@ -1,6 +1,6 @@
 ## hi! 
 
-## I'm a current student at Cornell studying CS and AI, interested in implemented agentic systems in healthcare!
+<!--** I'm a current student at Cornell studying CS and AI, interested in implemented agentic systems in healthcare!**-->
 
 
 <!--
