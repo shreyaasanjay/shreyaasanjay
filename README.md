@@ -1,11 +1,11 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=70000&color=58A6FF&center=true&vCenter=true&width=650&lines=hi!+i'm+shreyaa"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=70000&color=58A6FF&center=true&vCenter=true&width=900&lines=%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+hi!+i%27m+shreyaa+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E"
     alt="Typing introduction"
   />
 </p>
 
-<h2 align="center"> 💙🫧welcome to my github :) 🫧💙</h2>
+<h2 align="center"> 🫧welcome to my github :)🫧</h2>
 <!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
 
 
