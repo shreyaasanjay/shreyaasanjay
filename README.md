@@ -1,6 +1,8 @@
-## $\color{blue}{\text{hi! i'm shreyaa}}$ 🫐🧚‍♀️🫧💙
-## $\color{blue}{\text{welcome to my github:)}}$ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=hi!%20i'm%20shreyaa&fontColor=4A90E2&fontSize=35" />
+</p>
 
+<h2 align="center">welcome to my github :) 🫐🫧💙</h2>
 
 <!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
 
