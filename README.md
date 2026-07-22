@@ -1,4 +1,4 @@
-## $\color{blue}{\text{hi! i'm shreyaa}}$ 💙🫐🦋🫧
+## $\color{blue}{\text{hi! i'm shreyaa}}$ 🫐🦋🫧💙
 ## $\color{blue}{\text{welcome to my github:)}}$ 
 
 
