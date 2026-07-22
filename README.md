@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=hi!%20i'm%20shreyaa&fontColor=4A90E2&fontSize=35"
-    alt="hi! i'm shreyaa"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=70000&color=58A6FF&center=true&vCenter=true&width=650&lines=hi!+i'm+shreyaa"
+    alt="Typing introduction"
   />
 </p>
 
