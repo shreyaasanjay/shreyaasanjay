@@ -1,5 +1,8 @@
 ## hi! 
 
+This is $\color{red}{\text{red text}}$ inside a sentence.
+
+
 <!--** I'm a current student at Cornell studying CS and AI, interested in implemented agentic systems in healthcare!**-->
 
 
