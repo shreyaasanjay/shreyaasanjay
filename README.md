@@ -1,6 +1,8 @@
-## hi! 
+## $\color{blue}{\text{hi! i'm shreyaa}}$ 
+## $\color{blue}{\text{welcome to my github:)}}$ 
 
-This is $\color{red}{\text{red text}}$ inside a sentence.
+
+<!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
 
 
 <!--** I'm a current student at Cornell studying CS and AI, interested in implemented agentic systems in healthcare!**-->
