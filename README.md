@@ -13,7 +13,7 @@
 
  ```
 Interested In: Human-Computer Interaction, Control Systems, Robot Learning and Reasoning
-Working on: Assistive Robotics Research, Personal AI Agents
+Working on: Formal Verification of LLMs, Personal AI Agents
 Learning: Functional Programming (OCaml), Embedded Systems (Verilog)
  ```
 
