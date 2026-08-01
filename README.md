@@ -5,11 +5,29 @@
   />
 </p>
 
-<h2 align="center"> 🫧welcome to my github :)🫧</h2>
+<h2 align="center"> 🫧welcome to my github 🫧 </h2>
+
+<p align="center">
+ I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
+
+
+ ```
+Interested In: Human-Computer Interaction, Control Systems, Robot Learning and Reasoning
+Working on: Assistive Robotics Research, Personal AI Agents
+Learning: Functional Programming (OCaml), Embedded Systems (Verilog)
+ ```
+
+
+
+Personal Website: https://shreyaasanjay.github.io/
+Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
+Email: ss4457@cornell.edu
+
+
+
 <!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
 
 
-<!--** I'm a current student at Cornell studying CS and ECE, interested in how building physical AI and hardware stuffies!**-->
 
 
 <!--
