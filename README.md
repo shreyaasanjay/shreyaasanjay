@@ -12,8 +12,8 @@
 
 
  ```
-Interested In: Human-Computer Interaction, Control Systems, Robot Learning and Reasoning
-Working on: Formal Verification of LLMs, Personal AI Agents
+Interested In: Wearable and Physical AI, Real-time Sensing, and Human/AI Interaction
+Working on: Formal Verification of LLMs, Memory/Retrieval Systems
 Learning: Functional Programming (OCaml), Embedded Systems (Verilog)
  ```
 
