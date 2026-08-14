@@ -4,9 +4,9 @@
   />
 </p>
 
-<h2 align="left"> 🫧welcome to my github 🫧 </h2>
+<h2 align="left"> welcome to my github 💙 </h2>
 
-<p align="left">
+<p align="center">
  I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
 
 
