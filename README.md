@@ -1,13 +1,12 @@
-<p align="center">
+<p align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=70000&weight=700&color=58A6FF&center=true&vCenter=true&width=900&lines=%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+hi!+i%27m+shreyaa+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E"
-    alt="Typing introduction"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=70000&weight=700&color=1F4E79&center=false&vCenter=true&width=900&lines=%F0%9F%91%8B+hi!+i%27m+shreyaa"
   />
 </p>
 
-<h2 align="center"> 🫧welcome to my github 🫧 </h2>
+<h2 align="left"> 🫧welcome to my github 🫧 </h2>
 
-<p align="center">
+<p align="left">
  I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
 
 
