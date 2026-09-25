@@ -12,7 +12,7 @@
 
 
  ```
-Interested in: Wearable and Physical AI, Real-time Sensing, and Data pipelines
+Interested in: Wearable and Physical AI, Real-time Sensing, and Data Pipelines
 Working on: Formal Verification of LLMs, Memory/Retrieval Systems
 Learning: Functional Programming (OCaml), Digital Logic/FPGA (Verilog)
  ```
