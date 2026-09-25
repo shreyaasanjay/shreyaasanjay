@@ -14,7 +14,7 @@
  ```
 Interested in: Wearable and Physical AI, Real-time Sensing, and Human/AI Interaction
 Working on: Formal Verification of LLMs, Memory/Retrieval Systems
-Learning: Functional Programming (OCaml), Embedded Systems (Verilog)
+Learning: Functional Programming (OCaml), Digital Logic/FPGA (Verilog)
  ```
 
 
