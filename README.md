@@ -17,20 +17,19 @@ Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.v
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
 
-
-<div align="center">
+<p align="center">
   <img
-    src="https://shreyaasanjay.github.io/shreyaasanjay/koi/koi.gif"
+    src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/koi/koi.gif"
     width="200"
     alt="My GitHub Koi"
   />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg"
     width="220"
     alt="Pink water lily"
   />
-</div>
-
+</p>
 
 
 
