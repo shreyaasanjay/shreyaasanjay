@@ -10,13 +10,13 @@
 <p align="left">
  I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
 
-
+<!--
  ```
 Interested in: Wearable and Physical AI, Real-time Sensing, and Data Pipelines
 Working on: Formal Verification of LLMs, Memory/Retrieval Systems
 Learning: Functional Programming (OCaml), Digital Logic/FPGA (Verilog)
  ```
-
+-->
 
 
 Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
