@@ -17,10 +17,10 @@ Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.v
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
 
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/koi/koi.gif"
-    width="200"
+    width="265"
     alt="My GitHub Koi"
   />
   &nbsp;&nbsp;&nbsp;
