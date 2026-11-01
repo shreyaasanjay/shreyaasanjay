@@ -17,16 +17,20 @@ Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.v
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" align="center" valign="middle" style="border: none;">
-      <img src="koi/koi.gif" width="350" alt="My GitHub Koi" />
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg" width="220" alt="Pink pixel art water lily" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img
+    src="https://shreyaasanjay.github.io/shreyaasanjay/koi/koi.gif"
+    width="350"
+    alt="My GitHub Koi"
+  />
+  <img
+    src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg"
+    width="220"
+    alt="Pink water lily"
+  />
+</div>
+
 
 
 
