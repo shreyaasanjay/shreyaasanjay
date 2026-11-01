@@ -13,11 +13,9 @@
   I'm a Cornell CS & ECE student, interested in building physical AI and intelligent systems to enhance daily life!
 </p>
 
-<p align="left">
-  Website: <a href="https://shreyaasanjay-portfolio.vercel.app/">shreyaasanjay-portfolio.vercel.app</a><br/>
-  LinkedIn: <a href="https://www.linkedin.com/in/shreyaa-sanjay-3166b2275">LinkedIn</a><br/>
-  Email: <a href="mailto:ss4457@cornell.edu">ss4457@cornell.edu</a>
-</p>
+Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
+Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
+Email: ss4457@cornell.edu
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
   <tr style="border: none;">
