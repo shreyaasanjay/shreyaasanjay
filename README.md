@@ -18,17 +18,17 @@ Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shrey
 Email: ss4457@cornell.edu
 
 <p align="left">
+   <img
+    src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg"
+    width="220"
+    alt="Pink water lily"
+  />
   <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/koi/koi.gif"
     width="280"
     alt="My GitHub Koi"
   />
   &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg"
-    width="220"
-    alt="Pink water lily"
-  />
    <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pixel-willow-tree-png.webp"
     width="200"
