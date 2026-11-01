@@ -8,7 +8,7 @@
   <strong>💙 welcome to my github 💙</strong>
 </p>
 <p align="left">
- I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
+ I'm a current student at Cornell studying CS & ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
 
 <!--
  ```
