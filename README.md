@@ -1,29 +1,29 @@
-<p align="left">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=70000&weight=600&color=1F4E79&center=false&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi!+I%27m+Shreyaa"
-  />
-</p>
 
-<p align="left">
-  <strong>💙 welcome to my github 💙</strong>
-</p>
-<p align="left">
- I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life! </p>
+<h1>👋 Hi! I'm Shreyaa</h1>
 
-<!--
- ```
+<h3>💙 welcome to my github 💙</h3>
+
+I'm a current student at Cornell studying CS and ECE, interested in building physical AI and intelligent systems to enhance daily life!
+
+<table>
+<tr>
+<td width="55%" align="center">
+  <img src="koi/koi.gif" width="350" alt="Swimming koi"/>
+</td>
+<td width="45%" valign="middle">
+
+<pre>
 Interested in: Wearable and Physical AI, Real-time Sensing, and Data Pipelines
 Working on: Formal Verification of LLMs, Memory/Retrieval Systems
 Learning: Functional Programming (OCaml), Digital Logic/FPGA (Verilog)
- ```
--->
+</pre>
 
+</td>
+</tr>
+</table>
 
-Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
-Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
-Email: ss4457@cornell.edu
+Website: <a href="https://shreyaasanjay-portfolio.vercel.app/">shreyaasanjay-portfolio.vercel.app</a> | LinkedIn: <a href="https://www.linkedin.com/in/shreyaa-sanjay">LinkedIn</a> | Email: <a href="mailto:ss4457@cornell.edu">ss4457@cornell.edu</a>
 
-<img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
 
 
 <!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
