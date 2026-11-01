@@ -21,7 +21,7 @@ Email: ss4457@cornell.edu
 <div align="center">
   <img
     src="https://shreyaasanjay.github.io/shreyaasanjay/koi/koi.gif"
-    width="350"
+    width="200"
     alt="My GitHub Koi"
   />
   <img
