@@ -20,18 +20,18 @@ Email: ss4457@cornell.edu
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/koi/koi.gif"
-    width="275"
+    width="285"
     alt="My GitHub Koi"
   />
   &nbsp;&nbsp;&nbsp;
   <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pink-water-lily-pond-flower-botanical-plants-with-leaves-and-water-pixel-bit-retro-game-styled-illustration-drawing-isolated-on-white-background-nymphaeaceae-rhizomatous-aquatic-herbs-free-ve.jpg"
-    width="220"
+    width="200"
     alt="Pink water lily"
   />
    <img
     src="https://raw.githubusercontent.com/shreyaasanjay/shreyaasanjay/main/pixel-willow-tree-png.webp"
-    width="180"
+    width="160"
     alt="Pixel willow tree"
   />
 </p>
