@@ -23,6 +23,7 @@ Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.v
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
 
+<img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
 
 
 <!--This is $\color{blue}{\text{red text}}$ inside a sentence.-->
