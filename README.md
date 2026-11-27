@@ -4,10 +4,10 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=70000&weight=600&color=1F4E79&center=false&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi!+I%27m+Shreyaa"
   />
 </p>
-
+<!--
 <p align="left">
   <strong>💙 welcome to my github 💙</strong>
-</p>
+</p> --!>
 
 Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
