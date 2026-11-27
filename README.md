@@ -9,10 +9,6 @@
   <strong>💙 welcome to my github 💙</strong>
 </p>
 
-<p align="left">
-  I'm a Cornell CS & ECE student, interested in building physical AI and intelligent systems to enhance daily life!
-</p>
-
 Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
