@@ -9,7 +9,7 @@
   <strong>💙 welcome to my github 💙</strong>
 </p> --!>
 
-Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app/)
+Website: [shreyaasanjay-portfolio.vercel.app/](https://shreyaasanjay-portfolio.vercel.app)
 Linkedin: [www.linkedin.com/in/shreyaa-sanjay](https://www.linkedin.com/in/shreyaa-sanjay-3166b2275)
 Email: ss4457@cornell.edu
 
