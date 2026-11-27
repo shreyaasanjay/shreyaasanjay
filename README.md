@@ -1,7 +1,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=9000&pause=70000&weight=600&color=1F4E79&center=false&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi!+I%27m+Shreyaa,+welcome+to+my+github!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&repeat=false&weight=600&color=1F4E79&center=false&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi!+I%27m+Shreyaa,+welcome+to+my+github!"
   />
 </p>
 <!--
